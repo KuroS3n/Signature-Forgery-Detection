@@ -7,6 +7,7 @@ SIGNATURE_FORGERY_PROJECT/
 ├── Training/
 │   ├── __pycache__/
 │   ├── autoencoder.py
+│   ├── capsnet_train.py
 │   ├── capsnet.py
 │   ├── custom_cnn.py
 │   ├── Evaluation.py
